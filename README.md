@@ -5,7 +5,7 @@
 ## 📌 Overview
 This project uses **Large Language Models (LLMs)** and **vector databases** to build an advanced **book recommendation system**. Users can discover books based on **semantic search, sentiment analysis, and zero-shot classification.**
 
-## 🛠️ Components of the Tutorial
+## 🛠️ Components of Project
 The project is structured into five key parts:
 
 1️⃣ **Text Data Cleaning** 🧹
